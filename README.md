@@ -25,7 +25,7 @@ A lightweight Bash script that monitors the CPU usage of a target program and au
 1. Place your compiled program in the same directory or update the script to point to its path.
 2. Make the script executable:
    ```bash
-   chmod +x watchdog_launcher.sh
+   chmod +x CPU_watchdog.sh
 
 ## Powered by github.com/AlexPhoenix42 🌈🚀
 https://github.com/AlexPhoenix42
